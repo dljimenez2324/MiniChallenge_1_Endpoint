@@ -19,6 +19,6 @@ Things to turn in: <br>
 <b>GitHub:</b> https://github.com/dljimenez2324/MiniChallenge_1_Endpoint <br>
 
 
-Peer Reviewed by _____________ <br>
-Comments:  <br> <br>
+Peer Reviewed by Jerie See Villanueva <br>
+Comments:  <br>David's attention to detail truly shines through in his project. Adding that extra array not only demonstrates his willingness to go the extra mile but also adds a subtle yet impactful touch to the overall functionality. It's these small, thoughtful additions that elevate a project from good to great. Well done, David, for your creativity and dedication to excellence <br>
 
